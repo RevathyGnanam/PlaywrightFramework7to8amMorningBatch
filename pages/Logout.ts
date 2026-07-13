@@ -30,6 +30,4 @@ export class LogoutPage {
         return await this.btnContinue.isVisible();
     }
 
-
-
 }
