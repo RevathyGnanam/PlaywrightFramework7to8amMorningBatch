@@ -47,10 +47,4 @@ test('Registration @master', async ({ page }) => {
        console.log(confirmMsg)
 
        expect(confirmMsg).toContain('Your Account Has Been Created!')
-
-
-
-
-
-
 })
