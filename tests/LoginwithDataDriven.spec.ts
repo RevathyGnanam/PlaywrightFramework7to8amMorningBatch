@@ -5,8 +5,6 @@ import { DataProvider } from '../utils/dataProvider'
 import { LoginPage } from '../pages/LoginPage';
 import { MyAccountPage } from '../pages/MyAccountPage';
 import { log } from 'node:console';
-
-
 //load JSON test data loginData.json
 
 // const jsonPath = "data/logindata.json";
